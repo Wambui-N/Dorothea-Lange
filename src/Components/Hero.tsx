@@ -3,7 +3,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="grid md:grid-cols-2 grid-rows-2 gap-4 items-center">
+    <div className="flex md:flex-row flex-col gap-4 items-center">
       <div className="flex flex-col gap-2">
         <h2 className="font-playfairDisplaySC text-5xl uppercase">
           Welcome to the world of Dorothea Lange
