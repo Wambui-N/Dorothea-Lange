@@ -4,7 +4,7 @@ import React from "react";
 const Gallery = () => {
   return (
     <div>
-      <h3 className="font-playfairDisplaySC text-5xl uppercase pb-2">
+      <h3 className="font-playfairDisplaySC lg:text-5xl text-3xl uppercase pb-2">
         Gallery
       </h3>
       <h5 className="font-playfairDisplaySC text-xl uppercase pb-1">

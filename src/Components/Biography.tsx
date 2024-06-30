@@ -3,7 +3,7 @@ import React from "react";
 const Biography = () => {
   return (
     <div>
-      <h3 className="font-playfairDisplaySC text-5xl uppercase pb-2">
+      <h3 className="font-playfairDisplaySC lg:text-5xl text-3xl uppercase pb-2">
         Biography
       </h3>
       <div className="leading-relaxed flex flex-col font-roboto font-light gap-2">

@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="flex md:flex-row flex-col gap-4 items-center">
       <div className="flex flex-col gap-2">
-        <h2 className="font-playfairDisplaySC text-5xl uppercase">
+        <h2 className="font-playfairDisplaySC lg:text-5xl text-3xl uppercase">
           Welcome to the world of Dorothea Lange
         </h2>
         <p className="font-roboto text-lg font-light">
