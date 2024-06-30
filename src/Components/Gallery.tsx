@@ -11,7 +11,7 @@ const Gallery = () => {
         Migrant Mother
       </h5>
       <div className="border-t-[0.5px] border-slate-50 pb-2"></div>
-      <div className="grid grid-cols-12 gap-8">
+      <div className="grid lg:grid-cols-12 md:grid-cols-10 grid-cols-8 lg:gap-8 md:gap-6' gap-4">
         <Image
           src="/image 1.png"
           alt="Migrant Mother"

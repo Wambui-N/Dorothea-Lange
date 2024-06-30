@@ -10,13 +10,13 @@ const Biography = () => {
         <p>
           Dorothea Lange (1895-1965) was an influential American documentary
           photographer known for her compassionate depictions of social issues.
-          Born in Hoboken, New Jersey, Lange's early work as a portrait
+          Born in Hoboken, New Jersey, Lange&lsquo;s early work as a portrait
           photographer in San Francisco laid the foundation for her empathetic
           approach to capturing the human condition.
         </p>
         <p>
-          Lange's photographs of migrant workers during the Great Depression,
-          such as her iconic 'Migrant Mother,' not only captured the stark
+          Lange&lsquo;s photographs of migrant workers during the Great Depression,
+          such as her iconic &lsquo;Migrant Mother,&lsquo; not only captured the stark
           realities of poverty but also sparked national awareness and
           government action. Her ability to humanize social issues through
           photography remains a testament to the enduring power of visual
